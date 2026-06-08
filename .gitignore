@@ -1,0 +1,9 @@
+*.log
+__pycache__/
+*.pyc
+.env
+arrancar.bat
+arrancar_oculto.vbs
+instalar_servicio.bat
+detener_bot.bat
+ver_logs.bat
